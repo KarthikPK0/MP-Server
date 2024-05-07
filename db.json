@@ -1,0 +1,40 @@
+{
+  "allVideos": [
+    {
+      "id": "ec6b",
+      "caption": "HTML Tutorial",
+      "imgURL": "https://i.ytimg.com/vi/1kr3SLgvyUI/maxresdefault.jpg",
+      "youtube": "",
+      "youtubeURL": "https://www.youtube.com/embed/OXGznpKZ_sA"
+    }
+  ],
+  "history": [
+    {
+      "id": "29db",
+      "caption": "Premalu Movie Trailer",
+      "youtubeURL": "https://www.youtube.com/embed/rR_2ti4l3nM",
+      "timeStamp": "5/3/2024, 2:20:47 PM GMT+5:30"
+    },
+    {
+      "id": "2bff",
+      "caption": "HTML Tutorial",
+      "youtubeURL": "https://www.youtube.com/embed/OXGznpKZ_sA",
+      "timeStamp": "5/6/2024, 10:33:14 AM GMT+5:30"
+    }
+  ],
+  "allCategory": [
+    {
+      "CategoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "af03",
+          "caption": "Premalu Movie Trailer",
+          "imgURL": "https://www.nowrunning.com/content/movie/2024/prema-28955/bg2_premalu.jpg",
+          "youtube": "",
+          "youtubeURL": "https://www.youtube.com/embed/OXGznpKZ_sA"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
